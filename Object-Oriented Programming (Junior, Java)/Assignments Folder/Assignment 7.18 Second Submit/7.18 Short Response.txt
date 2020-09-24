@@ -1,0 +1,14 @@
+Franklin Nuth
+CSC316 - A
+Assignment 7.18
+4 November 2018
+
+a) 666,382 games are won after a million rolls.
+
+b) 333,618 games are lost after a million rolls.
+
+c) The chances of winning at craps is 22.23%
+
+d) An average length of a game of craps is about 10 seconds.
+
+e) Yes, the chances of winning approve along with the amount of games played.

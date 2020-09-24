@@ -1,0 +1,6 @@
+//Franklin Nuth
+//CSC316-A
+//Craps Project Final Version
+//6 December 2018
+
+Error Note: The Craps program can print out the rules and exit the program as intended. The program's betting function does not work, the dice rolling is inaccurate, and the crowd does not react according to the player's situations.

@@ -1,0 +1,10 @@
+3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:54:40) [MSC v.1900 64 bit (AMD64)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate PolymorphismDemo.py]
+[<CircleFromGeometricObject.Circle object at 0x000001CC3E978320>, <RectangleFromGeometricObject.Rectangle object at 0x000001CC3F7E0780>, <EllipseFromGeometricObject.Ellipse object at 0x000001CC3F7E07B8>, <SquareFromGeometricObject.Square object at 0x000001CC3F7D4FD0>]
+color: green and filled: Trueradius: 4
+color: green and filled: Truewidth: 1height: 3
+color: green and filled: Trueradius1: 5radius2: 5
+color: green and filled: True
+Are the circle and rectangle the same size? False
+[<RectangleFromGeometricObject.Rectangle object at 0x000001CC3F7E0780>, <EllipseFromGeometricObject.Ellipse object at 0x000001CC3F7E07B8>, <SquareFromGeometricObject.Square object at 0x000001CC3F7D4FD0>, <CircleFromGeometricObject.Circle object at 0x000001CC3E978320>]

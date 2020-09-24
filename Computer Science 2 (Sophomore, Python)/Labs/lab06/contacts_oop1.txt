@@ -1,0 +1,27 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate contacts_oop.py]
+contact_info=Contact()
+contact_info.name
+'noname'
+contact_info.phone
+'nophone'
+contact_info.email
+'noemail'
+contact_info.name="Angel Rivera"
+contact_info.phone="315-792-5291"
+contact_info.email="arivera@utica.edu"
+print("Name:",contact_info.name,"/tPhone:", contact_info.phone,"/Email:",contact_info.email)
+Name: Angel Rivera /tPhone: 315-792-5291 /Email: arivera@utica.edu
+pilot=Contact()
+pilot.name="Franklin Nuth"
+pilot.phone="123-456-7890"
+pilot.email="fsnuth@utica.edu"
+copilot=Contact()
+copilot.name="Rasul Rasulov"
+copilot.phone="123-456-7890"
+copilot.email="rarasulov@utica.edu"
+print("Name:",pilot.name,"/tPhone:", pilot.phone,"/Email:",pilot.email)
+Name: Franklin Nuth /tPhone: 123-456-7890 /Email: fsnuth@utica.edu
+print("Name:",copilot.name,"/tPhone:", copilot.phone,"/Email:",copilot.email)
+Name: Rasul Rasulov /tPhone: 123-456-7890 /Email: rarasulov@utica.edu

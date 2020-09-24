@@ -1,0 +1,158 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate csc102_lab02_setcalculator_starter.py]
+This program allows you to make a simple 
+operations with sets.
+
+Set 1 =  set()
+Set 2 =  set()
+
+
+              ---------------------------------------
+                  MENU
+              ---------------------------------------
+              1 Change Set 1
+              2 Change Set 2
+              3 Intersection (Set 1 & Set 2)
+              4 Union (Set 1 | Set 2)
+              5 Difference (Set 1 - Set 2)
+              6 Symmetric Difference (Set 1 ^ Set 2)
+              0 Quit
+              --------------------------------------
+              
+Type an option number and press ENTER: 1
+Enter a comma-separated sequence of values: 1,2,3
+['1', '2', '3']
+
+Set 1 =  {'3', '1', '2'}
+Set 2 =  set()
+
+
+              ---------------------------------------
+                  MENU
+              ---------------------------------------
+              1 Change Set 1
+              2 Change Set 2
+              3 Intersection (Set 1 & Set 2)
+              4 Union (Set 1 | Set 2)
+              5 Difference (Set 1 - Set 2)
+              6 Symmetric Difference (Set 1 ^ Set 2)
+              0 Quit
+              --------------------------------------
+              
+Type an option number and press ENTER: 2
+Enter a comma-separated sequence of values: 4,5,6
+['4', '5', '6']
+
+Set 1 =  {'3', '1', '2'}
+Set 2 =  {'5', '6', '4'}
+
+
+              ---------------------------------------
+                  MENU
+              ---------------------------------------
+              1 Change Set 1
+              2 Change Set 2
+              3 Intersection (Set 1 & Set 2)
+              4 Union (Set 1 | Set 2)
+              5 Difference (Set 1 - Set 2)
+              6 Symmetric Difference (Set 1 ^ Set 2)
+              0 Quit
+              --------------------------------------
+              
+Type an option number and press ENTER: 3
+set()
+
+Set 1 =  {'3', '1', '2'}
+Set 2 =  {'5', '6', '4'}
+
+
+              ---------------------------------------
+                  MENU
+              ---------------------------------------
+              1 Change Set 1
+              2 Change Set 2
+              3 Intersection (Set 1 & Set 2)
+              4 Union (Set 1 | Set 2)
+              5 Difference (Set 1 - Set 2)
+              6 Symmetric Difference (Set 1 ^ Set 2)
+              0 Quit
+              --------------------------------------
+              
+Type an option number and press ENTER: 3
+set()
+
+Set 1 =  {'3', '1', '2'}
+Set 2 =  {'5', '6', '4'}
+
+
+              ---------------------------------------
+                  MENU
+              ---------------------------------------
+              1 Change Set 1
+              2 Change Set 2
+              3 Intersection (Set 1 & Set 2)
+              4 Union (Set 1 | Set 2)
+              5 Difference (Set 1 - Set 2)
+              6 Symmetric Difference (Set 1 ^ Set 2)
+              0 Quit
+              --------------------------------------
+              
+Type an option number and press ENTER: 4
+{'5', '4', '1', '2', '6', '3'}
+
+Set 1 =  {'3', '1', '2'}
+Set 2 =  {'5', '6', '4'}
+
+
+              ---------------------------------------
+                  MENU
+              ---------------------------------------
+              1 Change Set 1
+              2 Change Set 2
+              3 Intersection (Set 1 & Set 2)
+              4 Union (Set 1 | Set 2)
+              5 Difference (Set 1 - Set 2)
+              6 Symmetric Difference (Set 1 ^ Set 2)
+              0 Quit
+              --------------------------------------
+              
+Type an option number and press ENTER: 5
+{'3', '1', '2'}
+
+Set 1 =  {'3', '1', '2'}
+Set 2 =  {'5', '6', '4'}
+
+
+              ---------------------------------------
+                  MENU
+              ---------------------------------------
+              1 Change Set 1
+              2 Change Set 2
+              3 Intersection (Set 1 & Set 2)
+              4 Union (Set 1 | Set 2)
+              5 Difference (Set 1 - Set 2)
+              6 Symmetric Difference (Set 1 ^ Set 2)
+              0 Quit
+              --------------------------------------
+              
+Type an option number and press ENTER: 6
+{'5', '3', '1', '2', '6', '4'}
+
+Set 1 =  {'3', '1', '2'}
+Set 2 =  {'5', '6', '4'}
+
+
+              ---------------------------------------
+                  MENU
+              ---------------------------------------
+              1 Change Set 1
+              2 Change Set 2
+              3 Intersection (Set 1 & Set 2)
+              4 Union (Set 1 | Set 2)
+              5 Difference (Set 1 - Set 2)
+              6 Symmetric Difference (Set 1 ^ Set 2)
+              0 Quit
+              --------------------------------------
+              
+Type an option number and press ENTER: 0

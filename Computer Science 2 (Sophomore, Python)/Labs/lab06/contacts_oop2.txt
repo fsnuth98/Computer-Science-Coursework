@@ -1,0 +1,28 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate contacts_oop.py]
+contact1=Contact('Alice', '555-555-5555', 'alice@wonderland')
+contact2=Contact('Bob', '123-456-7890')
+contact3=Contact('Carla')
+print(contact1)
+Name:Alice	Phone: 555-555-5555\Email:alice@wonderland
+print(contact2)
+Name:Bob	Phone: 123-456-7890\Email:noemail
+print(contact3)
+Name:Carla	Phone: nophone\Email:noemail
+pilot=Contact()
+copilot=Contact()
+pilot.Contact('Franklin', "123-456-7890", 'fsnuth@utica.edu')
+Traceback (most recent call last):
+  Python Shell, prompt 10, line 1
+builtins.AttributeError: 'Contact' object has no attribute 'Contact'
+pilot.Contact('Franklin', '123-456-7890', 'fsnuth@utica.edu')
+Traceback (most recent call last):
+  Python Shell, prompt 11, line 1
+builtins.AttributeError: 'Contact' object has no attribute 'Contact'
+pilot=Contact('Franklin', "123-456-7890", 'fsnuth@utica.edu')
+copilot=Contact('Rasul','123-456-7890','rarasulov@utica.edu')
+print(pilot)
+Name:Franklin	Phone: 123-456-7890\Email:fsnuth@utica.edu
+print(copilot)
+Name:Rasul	Phone: 123-456-7890\Email:rarasulov@utica.edu

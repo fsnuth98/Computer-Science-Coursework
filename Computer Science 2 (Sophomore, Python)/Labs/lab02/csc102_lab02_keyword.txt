@@ -1,0 +1,11 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate CountKeywords.py]
+Enter a Python source code filename: as;df
+File as;df does not exist
+Traceback (most recent call last):
+  File "H:\CSC102\Labs\lab02\CountKeywords.py", line 40, in <module>
+    main()
+  File "H:\CSC102\Labs\lab02\CountKeywords.py", line 24, in <module>
+    sys.exit()
+builtins.SystemExit:

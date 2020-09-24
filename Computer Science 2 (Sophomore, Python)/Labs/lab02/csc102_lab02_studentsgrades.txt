@@ -1,0 +1,46 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate csc102_lab02_studentsgrades_starter.py]
+This program manages a simple list 
+ of students and their final grades.
+------------------------
+1 Add a student
+2 Delete a student
+3 List students by name
+4 List students by grade
+5 Quit
+------------------------
+
+Enter selection [1-5]: 1
+Enter student's name: asfd
+Enter student's grade: 234
+------------------------
+1 Add a student
+2 Delete a student
+3 List students by name
+4 List students by grade
+5 Quit
+------------------------
+
+Enter selection [1-5]: 1
+Enter student's name: kgjhk
+Enter student's grade: 34564365
+------------------------
+1 Add a student
+2 Delete a student
+3 List students by name
+4 List students by grade
+5 Quit
+------------------------
+
+Enter selection [1-5]: 4
+{'asfd': '234', 'kgjhk': '34564365'}
+------------------------
+1 Add a student
+2 Delete a student
+3 List students by name
+4 List students by grade
+5 Quit
+------------------------
+
+Enter selection [1-5]: 

@@ -1,0 +1,18 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate csc102_lab12_queue_find.py]
+Values in queue: [49, 38, 21, 65, 89, 11, 60, 98, 12, 61]
+What value to find? 11
+Value found!
+10
+10
+12
+12
+main()
+Values in queue: [20, 33, 82, 30, 72, 87, 88, 78, 14, 10]
+What value to find? 33
+Value found!
+main()
+Values in queue: [93, 36, 69, 62, 14, 28, 24, 48, 82, 71]
+What value to find? 54
+Sorry, value not queue.

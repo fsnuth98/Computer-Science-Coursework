@@ -1,0 +1,10 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate csc102_lab07_value2word.py]
+Please enter a number from 0 to 99: 11
+Traceback (most recent call last):
+  File "H:\CSC102\Labs\lab02\csc102_lab07_value2word.py", line 21, in <module>
+    main()
+  File "H:\CSC102\Labs\lab02\csc102_lab07_value2word.py", line 18, in <module>
+    value = dictionary.items()
+builtins.AttributeError: 'tuple' object has no attribute 'items'

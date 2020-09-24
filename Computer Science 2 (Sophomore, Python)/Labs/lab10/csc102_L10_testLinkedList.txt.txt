@@ -1,0 +1,331 @@
+3.4.4 (v3.4.4:737efcadf5a6, Dec 20 2015, 20:20:57) [MSC v.1600 64 bit (AMD64)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate csc102_L10_testLinkedList.py]
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option: 1
+Enter item to add first: Calculus
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:2
+Enter item to add last: Geography
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:3
+Removed first.
+The item removed is: Calculus
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:4
+Removed last.
+The item removed is: Geography
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:4
+Removed last.
+The item removed is: None
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:4
+Removed last.
+The item removed is: None
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:4
+Removed last.
+The item removed is: None
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:1
+Enter item to add first: English
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:2
+Enter item to add last: Literature
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:7
+What index would you like to look at?1
+What element do you like to insert?Geology
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:9
+Is it empty: True
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:11
+[English, Geology, Literature]
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:12
+Which element exists in the class?English
+It have been found  True
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:10
+What index do youwant to remove in the item?1
+Removed Item:  Geology
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:11
+[English, Literature]
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************
+        
+Enter your option:8
+The list has been cleared.
+
+        ****** Menu ******
+        [1] Add First
+        [2] Add Last
+        [3] Remove First
+        [4] Remove Last
+        [5] Get First
+        [6] Get Last
+        [7] Insert
+        [8] Clear
+        [9] is Empty?
+        [10] Remove At
+        [11] Print List
+        [12] Find element function we are using?
+        [0]  Quit
+        ******************

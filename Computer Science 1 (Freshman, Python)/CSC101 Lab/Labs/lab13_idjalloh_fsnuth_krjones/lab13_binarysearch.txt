@@ -1,0 +1,7 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate lab13_binarysearch.py]
+Enter a comma-separated list of values!: 1,2,3,4,5
+Enter your key!: 3
+	low	high	mid	values[mid]
+	 0 	 4 	 2 	 3

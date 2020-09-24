@@ -1,0 +1,25 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate lab07_n_sevens.py]
+Please enter the amount of 7s you want: 4
+die 1:  3 die 2 3
+die 1:  1 die 2 4
+die 1:  1 die 2 6 *
+die 1:  2 die 2 6
+die 1:  5 die 2 6
+die 1:  1 die 2 4
+die 1:  4 die 2 6
+die 1:  1 die 2 1
+die 1:  2 die 2 1
+die 1:  1 die 2 5
+die 1:  1 die 2 1
+die 1:  3 die 2 6
+die 1:  6 die 2 5
+die 1:  2 die 2 4
+die 1:  3 die 2 2
+die 1:  3 die 2 4 *
+die 1:  2 die 2 1
+die 1:  3 die 2 1
+die 1:  2 die 2 5 *
+die 1:  2 die 2 5 *
+You rolled 7 4 times and you rolled a total of  16 times.

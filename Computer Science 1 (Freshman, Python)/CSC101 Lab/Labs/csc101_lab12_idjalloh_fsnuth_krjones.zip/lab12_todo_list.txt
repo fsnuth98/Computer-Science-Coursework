@@ -1,0 +1,105 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate lab12_todo_list.py]
+====================================
+  TO-DO List
+====================================
+  [A]dd      [R]emove 
+  [Q]uit 
+====================================
+(List is empty)
+====================================
+Enter an option and press ENTER: A
+Enter item to add to the list:bananas
+====================================
+  TO-DO List
+====================================
+  [A]dd      [R]emove 
+  [Q]uit 
+====================================
+1 bananas
+====================================
+Enter an option and press ENTER: R
+Enter number of item to remove:1
+====================================
+  TO-DO List
+====================================
+  [A]dd      [R]emove 
+  [Q]uit 
+====================================
+(List is empty)
+====================================
+Enter an option and press ENTER: A
+====================================
+  TO-DO List
+====================================
+  [A]dd      [R]emove 
+  [Q]uit 
+====================================
+(List is empty)
+====================================
+Enter an option and press ENTER: apples
+====================================
+  TO-DO List
+====================================
+  [A]dd      [R]emove 
+  [Q]uit 
+====================================
+(List is empty)
+====================================
+Enter an option and press ENTER: A
+Enter item to add to the list:apples
+====================================
+  TO-DO List
+====================================
+  [A]dd      [R]emove 
+  [Q]uit 
+====================================
+1 apples
+====================================
+Enter an option and press ENTER: A
+Enter item to add to the list:cherries
+====================================
+  TO-DO List
+====================================
+  [A]dd      [R]emove 
+  [Q]uit 
+====================================
+1 apples
+2 cherries
+====================================
+Enter an option and press ENTER: A
+Enter item to add to the list:oranges
+====================================
+  TO-DO List
+====================================
+  [A]dd      [R]emove 
+  [Q]uit 
+====================================
+1 apples
+2 cherries
+3 oranges
+====================================
+Enter an option and press ENTER: R
+Enter number of item to remove:2
+====================================
+  TO-DO List
+====================================
+  [A]dd      [R]emove 
+  [Q]uit 
+====================================
+1 apples
+2 oranges
+====================================
+Enter an option and press ENTER: Q
+====================================
+  TO-DO List
+====================================
+  [A]dd      [R]emove 
+  [Q]uit 
+====================================
+1 apples
+2 oranges
+====================================
+Enter an option and press ENTER: Q
+Bye

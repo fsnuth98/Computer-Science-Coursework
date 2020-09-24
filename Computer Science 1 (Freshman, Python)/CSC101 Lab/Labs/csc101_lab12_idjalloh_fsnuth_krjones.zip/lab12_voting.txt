@@ -1,0 +1,37 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate lab12_voting.py]
+Enter name of candidate or q to quit: Alice
+
+*** Candidates ***
+Alice
+Bob
+Carla
+Damien
+****************
+Enter name of candidate or q to quit: Alice
+
+*** Candidates ***
+Alice
+Bob
+Carla
+Damien
+****************
+Enter name of candidate or q to quit: Bob
+
+*** Candidates ***
+Alice
+Bob
+Carla
+Damien
+****************
+Enter name of candidate or q to quit: Bob
+
+*** Candidates ***
+Alice
+Bob
+Carla
+Damien
+****************
+Enter name of candidate or q to quit: q
+We have a tie!

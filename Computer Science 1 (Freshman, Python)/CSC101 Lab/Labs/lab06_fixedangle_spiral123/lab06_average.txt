@@ -1,0 +1,11 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate untitled-3.py]
+Enter number of items you want to purchase: 6
+Enter the price for the item5
+Enter the price for the item-10
+Enter the price for the item15
+Enter the price for the item-20
+Enter the price for the item25
+Enter the price for the item-30
+The average is: -2.5

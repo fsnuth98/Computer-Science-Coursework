@@ -1,0 +1,17 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate untitled-3.py]
+Enter number of bottles donated or -1 or quit:5
+Enter number of bottles donated or -1 or quit:-1
+Total bottles donated today: 5
+Enter number of bottles donated or -1 or quit:5
+Enter number of bottles donated or -1 or quit:-1
+Total bottles donated today: 5
+Enter number of bottles donated or -1 or quit:5
+Enter number of bottles donated or -1 or quit:-1
+Total bottles donated today: 5
+Enter number of bottles donated or -1 or quit:5
+Enter number of bottles donated or -1 or quit:-1
+Total bottles donated today: 5
+Total bottles donate: 20
+Total value of donations: 1.0

@@ -1,0 +1,14 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate lab07_count_userconfirmation.py]
+Enter the amount of times:3
+Enter the amount of times:4
+Enter the amount of times:5
+Enter the amount of times:6
+Enter the amount of times:4
+Enter the amount of times:3
+Enter the amount of times:4
+Enter the amount of times:50
+Enter the amount of times:0
+Your positive numbers are:  8
+Your negative numbers are:  0
